@@ -1,9 +1,7 @@
 /*
 Programmer: Fathi AIYYOUB
-Course: Programming Fundamentals COIT 11222 T320
 File: Player.java
-Purpose: Final project -- The Numbers Game windowed application
-Date: 13 February 2021
+Purpose: Final project The Numbers Game windowed application
 */
 
 public class Player
